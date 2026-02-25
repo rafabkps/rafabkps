@@ -5,16 +5,16 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/SEU-USUARIO">
+  <a href="https://github.com/rafabkps">
     <img src="https://img.shields.io/github/followers/SEU-USUARIO?style=for-the-badge&logo=github&label=Seguidores" alt="GitHub Followers" />
   </a>
-  <a href="https://github.com/SEU-USUARIO?tab=repositories">
+  <a href="https://github.com/rafabkps?tab=repositories">
     <img src="https://img.shields.io/badge/Reposit%C3%B3rios-Ver%20Projetos-0EA5E9?style=for-the-badge&logo=github" alt="Repositorios" />
   </a>
-  <a href="mailto:SEU-EMAIL@EMAIL.COM">
+  <a href="mailto:rafabkps@gmail.com">
     <img src="https://img.shields.io/badge/Contato-E--mail-22C55E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN">
+  <a href="https://www.linkedin.com/in/rafael-félix-981b5a254">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
